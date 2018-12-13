@@ -1,0 +1,9 @@
+scipy
+tensorflow
+pandas
+numpy
+sklearn
+keras
+matplotlib
+mpld3
+pickle
